@@ -1,0 +1,6 @@
+{
+  "name": "منظومة إدارة وتنسيق مخيم أطياف العودة | CCCM Gaza",
+  "description": "منظومة إنسانية شاملة لإدارة وتنسيق مخيم أطياف العودة في قطاع غزة، مسح الأسر، حساب مؤشر الهشاشة وفق معايير اسفير، لوحة مؤشرات الفجوات، وتوليد تقارير المانحين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
